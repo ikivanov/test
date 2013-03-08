@@ -63,6 +63,7 @@
     <Content Include="index.html" />
     <Content Include="css\index.css" />
     <Content Include="JavaScript.js" />
+    <Content Include="JavaScript0.js" />
     <Content Include="js\index.js" />
     <Content Include="img\logo.png" />
     <Content Include="img\cordova.png" />
